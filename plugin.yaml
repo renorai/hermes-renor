@@ -1,0 +1,4 @@
+name: renor
+version: 0.2.0
+description: "Renor — one durable memory shared by all your agents (Claude Code, Codex, Cursor, Hermes), over MCP. Recalls before each turn within a deadline, saves the durable things you say after it. Hosted (renor.cloud, connection key) or the self-hosted open-source engine, offline."
+requires_hermes: ">=0.21.6"
