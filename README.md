@@ -9,7 +9,8 @@ for Claude Code and Codex, and what you told them is there for Hermes. **Say it 
 ## Install (3 commands)
 
 ```bash
-hermes plugins install renor   # once listed; until then: hermes plugins install https://github.com/renorai/hermes-renor
+hermes plugins install renor   # listed in the Hermes plugin catalog since 8 Nov 2026
+# or, from the repository URL: hermes plugins install https://github.com/renorai/hermes-renor
 hermes memory setup            # pick "renor", paste the connection key from https://app.renor.cloud
 hermes                         # talk; memory is recalled before each turn and saved after it
 ```
